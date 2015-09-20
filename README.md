@@ -1,2 +1,2 @@
 # SimpleDDD
-A sample to demonstr use DDD and CQRS
+A sample asp.net Mvc application to demonstrate how to use DDD and CQRS
